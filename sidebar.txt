@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqa:home|Door43 (mqa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqa|d43-mqa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqa/archive/master.zip|d43-mqa.zip]]
+
+**Recent Changes**
+{{changes>ns = mqa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqa|Ethnologue data]]
+
